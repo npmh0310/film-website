@@ -1,0 +1,7 @@
+https://api.themoviedb.org/3/movie/11?api_key=f9e5b39156ee54dbdaf0400c64c0f598
+
+api film
+https://api.themoviedb.org/3/trending/movie/day?api_key=f9e5b39156ee54dbdaf0400c64c0f598
+
+api image
+https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg
